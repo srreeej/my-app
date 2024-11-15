@@ -1,3 +1,4 @@
+## This is DA3 for AI C1 by Srijan Saxena 21BME1295
 ## Getting Started
 
 First, add your OpenAI API key to `.env.local` file:
